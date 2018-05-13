@@ -1,4 +1,4 @@
-package dep-one // import "github.com/shenderov/dep-one"
+package depone // import "github.com/shenderov/dep-one"
 
 import (
 	"fmt"
