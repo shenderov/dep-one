@@ -1,10 +1,9 @@
-package main // import "github.com/shenderov/dep-one"
+package dep-one // import "github.com/shenderov/dep-one"
 
 import (
 	"fmt"
 )
 
-func main() {
+func Hello() {
 	fmt.Println("This is dep one")
-
 }
